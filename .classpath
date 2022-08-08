@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/api_outros"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/api_sankhya"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/skwextensiontool"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SkWExtensionTool"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SankhyaW-extensions"/>
+	<classpathentry kind="output" path="out/production/TudodeBicho"/>
+</classpath>
